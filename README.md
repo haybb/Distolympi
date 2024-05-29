@@ -1,5 +1,5 @@
 # Distolympi
-Dans le cadre de notre Projet **Pluridisciplinaire d'Informatique Intégrative n°2** à Télécom Nancy, nous avons décidé (groupe de 4 élèves) de créer de toute pièce un Hack'n'Slash.
+Dans le cadre de notre **Projet Pluridisciplinaire d'Informatique Intégrative n°2** à Télécom Nancy, nous avons décidé (groupe de 4 élèves) de créer de toute pièce un Hack'n'Slash.
 
 ## Histoire
 Les Jeux Olympiques de Paris 2024 ont tourné au cauchemar. Les nageurs les plus courageux ayant osé nager dans les eaux polluées de la Seine se sont vu contaminer par un étrange virus. Un virus qui laisse penser que la Covid-19 n'était rien à côté.
@@ -8,7 +8,7 @@ Loli armée de son courage mais surtout de sa marinière bien française devra e
 
 Le sort de Paris est entre les mains de Loli (ou plutôt juste sa vie mais c'est déjà pas mal), saura-t-elle faire face à cette menace.
 
-Bonne chance, car elle en aura besoin (et aussi d'une baguette et de fromages).
+Bonne chance, car elle en aura besoin (et aussi d'une baguette et de fromage).
 
 ![Capture d'écran du jeu](assets/screen.png "Screenshot")  
 
